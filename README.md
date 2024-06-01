@@ -1,7 +1,7 @@
 # Virtual Store App
 
-A Flutter course from Udemy by Daniel Sciolfi.
-This reference project shows how to implement a virtual store (e-commerce) in Flutter:
+Um curso Flutter da Udemy por Daniel Sciolfi.
+Este projeto de referência mostra como implementar uma loja virtual (e-commerce) em Flutter:
 <p float="left">
   <img src="web/icons/pic_1.png" width="250" />
    <img src="web/icons/pic_11.png" width="250" />
@@ -16,17 +16,17 @@ This reference project shows how to implement a virtual store (e-commerce) in Fl
   <img src="web/icons/pic_9.png" width="250" />
   <img src="web/icons/pic_10.png" width="250" />
 
-The project uses Firebase for (remote) storage of the data and manage the products and images.
+O projeto usa Firebase para armazenamento (remoto) dos dados e gerenciamento de produtos e imagens.
   
 # App Overview
   
-The application is composed by several functionalities as a typical e-commerce app such as: login, logout,
-  cart screen, orders, payment and so forth. It also includes a "owner mode" in order to be able to edit all the information
-  that will be displayed to the customers.
+O aplicativo é composto por diversas funcionalidades de um aplicativo típico de e-commerce como: login, logout,
+ tela do carrinho, pedidos, pagamento e assim por diante. Também inclui um "modo proprietário" para poder editar todas as informações
+ que será exibido aos clientes..
 
 # Packages
 
-The app uses the following packages:
+O aplicativo usa os seguintes pacotes:
  
  - [provider](https://pub.dev/packages/path_provider)
  - [cloud_firestore](https://pub.dev/packages/cloud_firestore)
